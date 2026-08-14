@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using DVLD.Login;
 using System.Windows.Forms;
+
 
 namespace DVLD
 {
@@ -14,11 +13,11 @@ namespace DVLD
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
-            // Application.Run(new frmTest2());
-           // Application.Run(new frmLogin());
+            System.Windows.Forms.Application.EnableVisualStyles();
+            System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+          // System.Windows.Forms.Application.Run(new frmMain());
+           // System.Windows.Forms.Application.Run(new frmTest2());
+           System.Windows.Forms.Application.Run(new frmLogin());
         }
     }
 }

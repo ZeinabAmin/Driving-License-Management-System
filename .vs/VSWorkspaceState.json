@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\DVLD",
-    "\\DVLD\\People",
-    "\\DVLD\\People\\Controls"
+    "\\DVLD\\People\\Controls",
+    "\\DVLD\\User"
   ],
-  "SelectedNode": "\\DVLD\\People\\Controls\\ctrlPersonCard.Designer.cs",
+  "SelectedNode": "\\DVLD\\User\\frmUserInfo.cs",
   "PreviewInSolutionExplorer": false
 }

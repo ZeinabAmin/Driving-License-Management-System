@@ -5,12 +5,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DVLD_Business;
+
 
 namespace DVLD.Classes
 {
     internal static class clsGlobal
     {
-      //  public static clsUser CurrentUser;
+        public static clsUser CurrentUser;
 
         public static bool RememberUsernameAndPassword(string Username, string Password)
         {
