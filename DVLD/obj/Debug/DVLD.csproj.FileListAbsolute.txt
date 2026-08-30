@@ -1,3 +1,10 @@
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_Business.dll
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_Business.pdb
+C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.Application.frmEditApplicationType.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.Application.frmListApplicationTypes.resources
@@ -10,6 +17,8 @@ C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.People.frmFindPer
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
@@ -17,13 +26,6 @@ C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.User.frmListUsers
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD.exe.config
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD.exe
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD.pdb
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_Business.dll
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_Business.pdb
-C:\Users\pc\source\repos\course 19\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.csproj.Up2Date
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.exe
 C:\Users\pc\source\repos\course 19\Project\DVLD\obj\Debug\DVLD.pdb
