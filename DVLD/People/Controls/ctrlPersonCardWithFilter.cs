@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DVLD.Controls
+namespace DVLD.Applications
 
 {
     public partial class ctrlPersonCardWithFilter : UserControl

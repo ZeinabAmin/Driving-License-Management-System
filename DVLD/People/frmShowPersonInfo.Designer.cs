@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrlPersonCard1 = new DVLD.Controls.ctrlPersonCard();
+            this.ctrlPersonCard1 = new DVLD.Applications.ctrlPersonCard();
             this.lblTitle = new System.Windows.Forms.Label();
             this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -88,7 +88,7 @@
 
         #endregion
 
-        private Controls.ctrlPersonCard ctrlPersonCard1;
+        private Applications.ctrlPersonCard ctrlPersonCard1;
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.Button btnClose;
     }

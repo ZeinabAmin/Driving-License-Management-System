@@ -50,7 +50,7 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.btnClose = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
-            this.ctrlPersonCardWithFilter1 = new DVLD.Controls.ctrlPersonCardWithFilter();
+            this.ctrlPersonCardWithFilter1 = new DVLD.Applications.ctrlPersonCardWithFilter();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.tcUserInfo.SuspendLayout();
             this.tpPersonalInfo.SuspendLayout();
@@ -366,7 +366,7 @@
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.TabControl tcUserInfo;
         private System.Windows.Forms.TabPage tpPersonalInfo;
-        private Controls.ctrlPersonCardWithFilter ctrlPersonCardWithFilter1;
+        private Applications.ctrlPersonCardWithFilter ctrlPersonCardWithFilter1;
         private System.Windows.Forms.TabPage tpLoginInfo;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label lblUserID;

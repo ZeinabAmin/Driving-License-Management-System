@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using DVLD.People;
 using System.IO;
 
-namespace DVLD.Controls
+namespace DVLD.Applications
 {
     public partial class ctrlPersonCard : UserControl
     {
