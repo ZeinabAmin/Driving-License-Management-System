@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications.ApplicationControls
+﻿namespace DVLD.Licenses.ApplicationControls
 {
     partial class ctrlApplicationBasicInfo
     {

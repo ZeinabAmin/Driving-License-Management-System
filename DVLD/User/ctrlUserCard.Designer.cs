@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications
+﻿namespace DVLD.Licenses
 {
     partial class ctrlUserCard
     {
@@ -35,7 +35,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.lblUserID = new System.Windows.Forms.Label();
-            this.ctrlPersonCard1 = new DVLD.Applications.ctrlPersonCard();
+            this.ctrlPersonCard1 = new DVLD.Licenses.ctrlPersonCard();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 

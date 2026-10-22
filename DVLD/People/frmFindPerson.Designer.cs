@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrlPersonCardWithFilter1 = new DVLD.Applications.ctrlPersonCardWithFilter();
+            this.ctrlPersonCardWithFilter1 = new DVLD.Licenses.ctrlPersonCardWithFilter();
             this.lblTitle = new System.Windows.Forms.Label();
             this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -88,7 +88,7 @@
 
         #endregion
 
-        private Applications.ctrlPersonCardWithFilter ctrlPersonCardWithFilter1;
+        private Licenses.ctrlPersonCardWithFilter ctrlPersonCardWithFilter1;
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.Button btnClose;
     }

@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications
+﻿namespace DVLD.Licenses
 {
     partial class frmLocalDrivingLicenseApplicationInfo
     {
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrlDrivingLicenseApplicationInfo1 = new DVLD.Applications.ApplicationControls.ctrlDrivingLicenseApplicationInfo();
+            this.ctrlDrivingLicenseApplicationInfo1 = new DVLD.Licenses.ApplicationControls.ctrlDrivingLicenseApplicationInfo();
             this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -73,7 +73,7 @@
 
         #endregion
 
-        private Applications.ApplicationControls.ctrlDrivingLicenseApplicationInfo ctrlDrivingLicenseApplicationInfo1;
+        private Licenses.ApplicationControls.ctrlDrivingLicenseApplicationInfo ctrlDrivingLicenseApplicationInfo1;
         private System.Windows.Forms.Button btnClose;
     }
 }

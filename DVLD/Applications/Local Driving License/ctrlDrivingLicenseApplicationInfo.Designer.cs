@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications.ApplicationControls
+﻿namespace DVLD.Licenses.ApplicationControls
 {
     partial class ctrlDrivingLicenseApplicationInfo
     {
@@ -40,7 +40,7 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.ctrlApplicationBasicInfo1 = new DVLD.Applications.ApplicationControls.ctrlApplicationBasicInfo();
+            this.ctrlApplicationBasicInfo1 = new DVLD.Licenses.ApplicationControls.ctrlApplicationBasicInfo();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -214,7 +214,7 @@
 
         #endregion
 
-        private DVLD.Applications.ApplicationControls.ctrlApplicationBasicInfo ctrlApplicationBasicInfo1;
+        private DVLD.Licenses.ApplicationControls.ctrlApplicationBasicInfo ctrlApplicationBasicInfo1;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox7;

@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications
+﻿namespace DVLD.Licenses
 {
     partial class ctrlPersonCard
     {
@@ -51,7 +51,7 @@
             this.lblNationalNo = new System.Windows.Forms.Label();
             this.lblEmail = new System.Windows.Forms.Label();
             this.lblAddress = new System.Windows.Forms.Label();
-            this.lblGendor = new System.Windows.Forms.Label();
+            this.lblGender = new System.Windows.Forms.Label();
             this.lblDateOfBirth = new System.Windows.Forms.Label();
             this.lblPhone = new System.Windows.Forms.Label();
             this.llEditPersonInfo = new System.Windows.Forms.LinkLabel();
@@ -94,7 +94,7 @@
             this.groupBox1.Controls.Add(this.lblNationalNo);
             this.groupBox1.Controls.Add(this.lblEmail);
             this.groupBox1.Controls.Add(this.lblAddress);
-            this.groupBox1.Controls.Add(this.lblGendor);
+            this.groupBox1.Controls.Add(this.lblGender);
             this.groupBox1.Controls.Add(this.lblDateOfBirth);
             this.groupBox1.Controls.Add(this.lblPhone);
             this.groupBox1.Controls.Add(this.llEditPersonInfo);
@@ -323,14 +323,14 @@
             this.lblAddress.TabIndex = 7;
             this.lblAddress.Text = "[????]";
             // 
-            // lblGendor
+            // lblGender
             // 
-            this.lblGendor.AutoSize = true;
-            this.lblGendor.Location = new System.Drawing.Point(179, 144);
-            this.lblGendor.Name = "lblGendor";
-            this.lblGendor.Size = new System.Drawing.Size(65, 20);
-            this.lblGendor.TabIndex = 6;
-            this.lblGendor.Text = "[????]";
+            this.lblGender.AutoSize = true;
+            this.lblGender.Location = new System.Drawing.Point(179, 144);
+            this.lblGender.Name = "lblGender";
+            this.lblGender.Size = new System.Drawing.Size(65, 20);
+            this.lblGender.TabIndex = 6;
+            this.lblGender.Text = "[????]";
             // 
             // lblDateOfBirth
             // 
@@ -417,7 +417,7 @@
         private System.Windows.Forms.Label lblPhone;
         private System.Windows.Forms.Label lblDateOfBirth;
         private System.Windows.Forms.Label lblAddress;
-        private System.Windows.Forms.Label lblGendor;
+        private System.Windows.Forms.Label lblGender;
         private System.Windows.Forms.Label lblEmail;
         private System.Windows.Forms.Label lblFullName;
         private System.Windows.Forms.Label lblNationalNo;

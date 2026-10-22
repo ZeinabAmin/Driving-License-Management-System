@@ -23,7 +23,7 @@ namespace DVLD.People
         public event DataBackEventHandler DataBack;
 
         public enum enMode { AddNew = 0, Update = 1 };
-        public enum enGendor { Male = 0, Female = 1 };
+        public enum enGender { Male = 0, Female = 1 };
 
         private enMode _Mode;
         private int _PersonID = -1;
@@ -118,7 +118,7 @@ namespace DVLD.People
             txtNationalNo.Text = _Person.NationalNo;
             dtpDateOfBirth.Value = _Person.DateOfBirth;
 
-            if (_Person.Gendor == 0)
+            if (_Person.Gender == 0)
                 rbMale.Checked = true;
             else
                 rbFemale.Checked = true;
@@ -224,9 +224,9 @@ namespace DVLD.People
             _Person.DateOfBirth = dtpDateOfBirth.Value;
 
             if (rbMale.Checked)
-                _Person.Gendor = (short)enGendor.Male;
+                _Person.Gender = (short)enGender.Male;
             else
-                _Person.Gendor = (short)enGendor.Female;
+                _Person.Gender = (short)enGender.Female;
 
             _Person.NationalityCountryID = NationalityCountryID;
 

@@ -2,9 +2,9 @@
 using DVLD.People;
 using DVLD_Business;
 using System.Windows.Forms;
-using DVLD.Applications;
+using DVLD.Licenses;
 
-namespace DVLD.Applications.ApplicationControls
+namespace DVLD.Licenses.ApplicationControls
 
 {
     public partial class ctrlApplicationBasicInfo : UserControl

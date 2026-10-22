@@ -4,7 +4,7 @@ using System;
 using System.Data;
 using System.Windows.Forms;
 
-namespace DVLD.Applications
+namespace DVLD.Licenses
 {
     public partial class frmAddUpdateLocalDrivingLicenseApplication : Form
     {

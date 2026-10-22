@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications
+﻿namespace DVLD.Licenses
 {
     partial class ctrlPersonCardWithFilter
     {
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.ctrlPersonCard1 = new DVLD.Applications.ctrlPersonCard();
+            this.ctrlPersonCard1 = new DVLD.Licenses.ctrlPersonCard();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.gbFilters = new System.Windows.Forms.GroupBox();
@@ -144,7 +144,7 @@
 
         #endregion
 
-        private DVLD.Applications.ctrlPersonCard ctrlPersonCard1;
+        private DVLD.Licenses.ctrlPersonCard ctrlPersonCard1;
         private System.Windows.Forms.ErrorProvider errorProvider1;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.Label label1;

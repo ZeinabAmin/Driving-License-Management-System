@@ -1,4 +1,4 @@
-﻿namespace DVLD.Applications
+﻿namespace DVLD.Licenses
 {
     partial class frmAddUpdateLocalDrivingLicenseApplication
     {
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrlPersonCardWithFilter1 = new DVLD.Applications.ctrlPersonCardWithFilter();
+            this.ctrlPersonCardWithFilter1 = new DVLD.Licenses.ctrlPersonCardWithFilter();
             this.tcApplicationInfo = new System.Windows.Forms.TabControl();
             this.tpPersonalInfo = new System.Windows.Forms.TabPage();
             this.btnApplicationInfoNext = new System.Windows.Forms.Button();
@@ -365,7 +365,7 @@
 
         #endregion
 
-        private DVLD.Applications.ctrlPersonCardWithFilter ctrlPersonCardWithFilter1;
+        private DVLD.Licenses.ctrlPersonCardWithFilter ctrlPersonCardWithFilter1;
         private System.Windows.Forms.TabControl tcApplicationInfo;
         private System.Windows.Forms.TabPage tpPersonalInfo;
         private System.Windows.Forms.TabPage tpApplicationInfo;

@@ -3,7 +3,7 @@ using System.Windows.Forms;
 //using DVLD.DriverLicense;
 
 
-namespace DVLD.Applications.ApplicationControls
+namespace DVLD.Licenses.ApplicationControls
 {
     public partial class ctrlDrivingLicenseApplicationInfo : UserControl
     {

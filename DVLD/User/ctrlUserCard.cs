@@ -1,7 +1,7 @@
 ﻿using DVLD_Business;
 using System.Windows.Forms;
 
-namespace DVLD.Applications
+namespace DVLD.Licenses
 {
     public partial class ctrlUserCard : UserControl
     {

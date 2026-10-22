@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrlUserCard1 = new DVLD.Applications.ctrlUserCard();
+            this.ctrlUserCard1 = new DVLD.Licenses.ctrlUserCard();
             this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -74,7 +74,7 @@
         }
 
         #endregion
-        private Applications.ctrlUserCard ctrlUserCard1;
+        private Licenses.ctrlUserCard ctrlUserCard1;
         private System.Windows.Forms.Button btnClose;
     }
 }

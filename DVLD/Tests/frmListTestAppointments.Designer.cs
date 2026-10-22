@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.ctrlDrivingLicenseApplicationInfo1 = new DVLD.Applications.ApplicationControls.ctrlDrivingLicenseApplicationInfo();
+            this.ctrlDrivingLicenseApplicationInfo1 = new DVLD.Licenses.ApplicationControls.ctrlDrivingLicenseApplicationInfo();
             this.lblTitle = new System.Windows.Forms.Label();
             this.dgvLicenseTestAppointments = new System.Windows.Forms.DataGridView();
             this.cmsApplications = new System.Windows.Forms.ContextMenuStrip(this.components);
@@ -217,7 +217,7 @@
 
         #endregion
 
-        private Applications.ApplicationControls.ctrlDrivingLicenseApplicationInfo ctrlDrivingLicenseApplicationInfo1;
+        private Licenses.ApplicationControls.ctrlDrivingLicenseApplicationInfo ctrlDrivingLicenseApplicationInfo1;
         private System.Windows.Forms.PictureBox pbTestTypeImage;
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.DataGridView dgvLicenseTestAppointments;
