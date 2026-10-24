@@ -110,7 +110,7 @@ namespace DVLD.Tests
 
             }
       
-            if (!clsValidatoin.IsNumber(txtFees.Text))
+            if (!clsValidation.IsNumber(txtFees.Text))
             {
                 e.Cancel = true;
                 errorProvider1.SetError(txtFees, "Invalid Number.");

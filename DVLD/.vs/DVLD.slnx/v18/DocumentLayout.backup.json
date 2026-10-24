@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37480723-B615-4C2D-8732-28C6D0267E98}|DVLD.csproj|c:\\users\\pc\\source\\repos\\course 19\\project\\dvld\\applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37480723-B615-4C2D-8732-28C6D0267E98}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37480723-B615-4C2D-8732-28C6D0267E98}|DVLD.csproj|c:\\users\\pc\\source\\repos\\course 19\\project\\dvld\\applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37480723-B615-4C2D-8732-28C6D0267E98}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37480723-B615-4C2D-8732-28C6D0267E98}|DVLD.csproj|c:\\users\\pc\\source\\repos\\course 19\\project\\dvld\\applications\\release detained license\\frmlistdetainedlicenses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37480723-B615-4C2D-8732-28C6D0267E98}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmlistdetainedlicenses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmListDetainedLicenses.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\Applications\\Release Detained License\\frmListDetainedLicenses.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\frmListDetainedLicenses.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\Applications\\Release Detained License\\frmListDetainedLicenses.Designer.cs",
+              "RelativeToolTip": "Applications\\Release Detained License\\frmListDetainedLicenses.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAASwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:24:09.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\Applications\\Release Detained License\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\frmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\Applications\\Release Detained License\\frmListDetainedLicenses.cs",
+              "RelativeToolTip": "Applications\\Release Detained License\\frmListDetainedLicenses.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAM8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:23:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\Applications\\Release Detained License\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\frmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 19\\Project\\DVLD\\Applications\\Release Detained License\\frmListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "Applications\\Release Detained License\\frmListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:17:31.388Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

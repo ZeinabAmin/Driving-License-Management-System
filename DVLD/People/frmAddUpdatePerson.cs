@@ -319,7 +319,7 @@ namespace DVLD.People
                 return;
 
             //validate email format
-            if (!clsValidatoin.ValidateEmail(txtEmail.Text))
+            if (!clsValidation.ValidateEmail(txtEmail.Text))
             {
                 e.Cancel = true;
                 errorProvider1.SetError(txtEmail, "Invalid Email Address Format!");
